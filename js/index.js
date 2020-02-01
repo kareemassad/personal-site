@@ -8,7 +8,6 @@ document.addEventListener('DOMContentLoaded', () =>{
     'use strict';
 
     let buffer = [];
-    let checker = false;
 
     document.addEventListener("keydown", event => {
         //if we only want letters and numbers
